@@ -247,4 +247,66 @@ header{
     font-size: 18px;
 
 }
-   
+
+.lesson8{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 100px;
+}
+.Download{
+    width: 254px;
+    height: 96px;
+    margin-top: 40px;
+}
+
+.Download1{
+    font-size: 36px;
+}
+.line2{
+    width: 56px;
+    height: 1px;
+    border: 1.4px solid black;
+    background: black;
+    border-radius: 6px;
+    margin-top: 40px;
+}
+.paragraf2{
+    width: 420px;
+    height: 120px;
+    margin-top: 40px;
+}
+
+.paragraf22{
+    font-size: 20px;
+    color: #7D7987;
+}
+
+.button2{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 56px;
+    border: 1.4px solid #458FF6 ;
+    border-radius: 55px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+    
+}
+.button22{
+    text-decoration: none;
+}
+
+.button222{
+    font-size: 18px;
+    color: #458FF6;
+
+}
+
+.img1{
+    width: 665px;
+    height: 434px;
+
+}
