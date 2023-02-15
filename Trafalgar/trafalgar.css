@@ -44,15 +44,8 @@ header{
     justify-content: space-between;
     margin-left: 50px;
     margin-right: 50px;
+    margin-top: 121px;
 }
-
-/*.lesson21{
-    display: flex;
-   flex-direction: column;
-   
-}*/
-
-
 .Virtual{
     width: 427px;
     height: 112px;
@@ -97,3 +90,161 @@ header{
     height: 598px;
 
 }
+
+.lesson3{
+    display: flex;
+    justify-content: center;
+    margin-top: 111px;
+}
+
+.lesson4{
+    position: relative;
+    margin-left: 223px;
+   font-size: 18px;
+    width: 952px;
+    height: 60px;
+    color: #7D7987;
+}
+
+.lesson5{
+    display: flex;
+    margin-left: 50px;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    
+   
+}
+
+.lesson511{
+    width: 350px;
+    height: 354px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    padding-top: 58px;
+   padding-left: 28px;
+   padding-right: 20px;
+}
+
+.lesson51{
+    margin-left: 25px;
+   padding-top: 58px;
+   padding-left: 28px;
+   padding-right: 20px;
+  
+    width: 350px;
+    height: 354px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+
+.Search1{
+    font-size: 24px;
+
+}
+.Search2{
+    font-size: 16px;
+    color: #7D7987;
+    width: 239px;
+}
+.Searcha{
+    width: 91.98px;
+    height: 90px;
+}
+
+.Searchb{
+    width: 61.86px;
+    height: 95px;
+}
+
+.Searchc{
+    width: 67.29px;
+    height: 95px;
+}
+.Searchd{
+    width: 67.08px;
+    height: 95px;
+}
+.Searche{
+    width: 80px;
+    height: 95px;
+}
+
+.Searchh{
+    width: 69.42px;
+    height: 95px;
+}
+
+.lesson6{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.Learn{
+    border: 1.4px #458FF6 solid;
+    border-radius: 55px;
+    padding-left: 51px;
+    padding-right: 51px;
+    text-decoration: none;
+}
+.Learn1{
+    font-size: 18px;
+    color:#458FF6 ;
+}
+
+.lesson7{
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.illustration{
+    width: 650px;
+    height: 477px;
+}
+.lesson71{
+    width: 481px;
+    height: 112px;
+    margin-top: 70px;
+}
+
+.Leading1{
+    font-size: 36px;
+}
+.line{
+    border: 1px solid black;
+    background: black;
+    width: 56px;
+    height: 1px;
+    border-radius: 10px;
+}
+.paragraf{
+    width: 450px;
+    height: 120px;
+    margin-top: 40px;
+}
+.paragraf1{
+    font-size: 20px;
+    color: #7D7987;
+}
+
+.button{
+    width: 100px;
+    height: 45px;
+    border: 1.4px #458FF6 solid;
+    border-radius: 55px;
+    padding-left: 51px;
+    padding-right: 51px;
+    margin-top: 40px;
+}
+.Learn2{
+    text-decoration: none;
+}
+
+.Learn21{
+    color: #458FF6;
+    font-size: 18px;
+
+}
+   
