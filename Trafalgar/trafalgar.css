@@ -40,11 +40,19 @@ header{
 }
 
 .lesson2{
+    position: relative;
     display: flex;
     justify-content: space-between;
     margin-left: 50px;
     margin-right: 50px;
     margin-top: 121px;
+}
+
+.noqte{
+    position: absolute;
+    width: 131.58px;
+    height: 115px;
+    left: -50px;
 }
 .Virtual{
     width: 427px;
@@ -107,12 +115,28 @@ header{
 }
 
 .lesson5{
+    position: relative;
     display: flex;
     margin-left: 50px;
     flex-wrap: wrap;
     margin-top: 100px;
-    
-   
+}
+
+.sekil{
+    position: absolute;
+    height:671px ;
+    width:937px ;
+    left:-50px ;
+    bottom: 415px;
+    z-index: -1;
+
+}
+
+.sekil2{
+    position: absolute;
+    right: -5px;
+    top: 350px;
+    z-index: -1;
 }
 
 .lesson511{
@@ -123,6 +147,9 @@ header{
     padding-top: 58px;
    padding-left: 28px;
    padding-right: 20px;
+   margin-top: 20px;
+   background: #FFFFFF;
+   z-index: 1;
 }
 
 .lesson51{
@@ -130,11 +157,12 @@ header{
    padding-top: 58px;
    padding-left: 28px;
    padding-right: 20px;
-  
+   margin-top: 20px;
     width: 350px;
     height: 354px;
     box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
+    background: #FFFFFF;
 }
 
 .Search1{
@@ -343,10 +371,26 @@ header{
 */
 
 .lesson10{
+    position: relative;
     margin-left:50px;
     margin-right: 50px;
     display: flex;
     margin-top: 120px;
+}
+
+.sekil3{
+    position: absolute;
+    z-index: -1;
+    height: 557.38px;
+    right: -50px;
+    bottom: -2px;
+}
+
+.sekil4{
+    position: absolute;
+    left: -50px;
+   top: -40px;
+   z-index: -1;
 }
 
 .box1{
@@ -355,6 +399,7 @@ header{
     height: 512px;
     box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     border-radius: 20px;
+    background: #FFFFFF;
 }
 .Disease1{
     font-size: 21px;
@@ -415,6 +460,7 @@ header{
 }
 
 footer{
+    position: relative;
     display: flex;
     margin-top: 120px;
     background: linear-gradient(
@@ -423,6 +469,18 @@ footer{
 );
     padding: 100px;
     
+}
+
+.sekil6{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.sekil5{
+    position: absolute;
+    right: 0px;
+    top: -70px;
 }
 
 .h1{
